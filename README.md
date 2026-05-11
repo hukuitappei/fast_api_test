@@ -2,6 +2,10 @@
 
 Kinstaの記事を参考にした完全なCRUD API実装です。FastAPI、SQLAlchemy、Pydanticを使用して構築されています。
 
+## Portfolio Role
+
+このリポジトリは、AIアプリを支えるバックエンド基礎の教材です。FastAPI、SQLAlchemy、Pydantic、pytestを使い、CRUD API、Swagger UI、テスト追加の説明材料として使います。
+
 ## 機能
 
 - **アイテム管理**: アイテムの作成、読み取り、更新、削除
